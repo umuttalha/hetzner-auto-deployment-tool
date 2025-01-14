@@ -88,6 +88,7 @@ SSH_KEY_NAME=your_ssh_key_name
 
 ### Available Images
 
+- `ubuntu-24.04`
 - `ubuntu-22.04`
 - `ubuntu-20.04`
 - `debian-11`
