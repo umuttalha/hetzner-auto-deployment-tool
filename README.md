@@ -24,7 +24,7 @@ A CLI tool for automated server deployment on Hetzner Cloud with Cloudflare DNS 
 
 ```bash
 # Clone the repository
-git clone https://github.com/umuttalha/go-cli-tool
+git clone https://github.com/umuttalha/hetzner-auto-deployment-tool
 cd go-cli-tool
 
 # Build the tool
